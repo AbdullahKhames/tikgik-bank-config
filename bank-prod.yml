@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 banks:
-  message: "Welcome to EazyBank banks related prod APIs "
+  message: "Welcome to EazyBank banks related prod APIs  bus refresh"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}fc75f2d9ca1ba6d32679c43105d6cdc2ecd98d42b534f4adcac28b90797c29b65cc5abd41b600020c42dbfe20fa36a85"
